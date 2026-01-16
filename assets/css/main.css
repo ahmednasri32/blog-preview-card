@@ -81,3 +81,8 @@ footer {
   padding: 25px 0;
   background-color: var(--White);
 }
+footer a {
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--bg);
+}
